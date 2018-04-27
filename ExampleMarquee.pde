@@ -1,3 +1,5 @@
+//Program header
+
 PVector screenPos, screenSiz;
 MarqueeText txt;//<==Declare the variable
 
